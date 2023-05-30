@@ -8,6 +8,12 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>
           Hello World!
+          <ul style={{ listStyle: 'none' }}>
+            <li>Ali</li>
+            <li>Asad</li>
+            <li>Nayyar</li>
+            <li>Anas</li>
+          </ul>
         </h2>
         <a
           className="App-link"
