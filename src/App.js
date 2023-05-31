@@ -47,7 +47,7 @@ function App() {
         <h2>
           Hello World!
           <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
-            <li>Ali</li>
+            <li>Ali Zia Khan</li>
             <li>Asad</li>
             <li>Nayyar</li>
             <li>Anas</li>
